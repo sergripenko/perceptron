@@ -1,0 +1,7 @@
+/vendor/
+/.idea/.gitignore
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/perceptron.iml
+/.idea/vcs.xml
+/.idea/watcherTasks.xml
